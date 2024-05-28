@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: wheat;
+}
+
+header {
+  background-color: blue;
+  color: darkblue;
+} 
+
+
+footer {
+  background-color: red;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+main {
+  padding: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+article {
+  background: seashell;
+  padding: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0 10px black;
+}
+
+h2 {
+  color: #333;
+}

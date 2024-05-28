@@ -1,0 +1,38 @@
+.footer{
+    height: auto;
+    width: 100%;
+    background-color: teal;
+    color: bisque;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    border: 1px solid white;
+}
+
+/* .Footerdiv{
+    height: auto;
+    width: 100%;
+} */
+
+.boxes{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+/* #box1,#box3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+@media screen and (max-width:800px){
+    #box1,#box3{
+    display: flex;
+    flex-direction: column;
+}}

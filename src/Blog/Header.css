@@ -1,0 +1,15 @@
+.navbar{
+    height: 55px;
+    width: 100%;
+    background: teal;
+}
+
+.navart{
+    background: teal;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
